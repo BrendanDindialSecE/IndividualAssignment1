@@ -58,9 +58,9 @@ const angelNumberMeanings = {
     setHistory([...history, number]);
   };
  return (
-  
  <div className="min-h-screen bg-gradient-to-b from-purple-700 to-blue-900 text-white p-6 text-center">
-<h1>Angel Number Guide 🐦‍⬛</h1>
+<h1>Angel Number Guide 🕊️</h1>
+<h2 className="welcome">Welcome Friend! 😇</h2>
 <p>Been seeing 111, 222, 333, or maybe a number that just felt special? Type it in and uncover its meaning!</p>
 <AngelNumberInput onSearch={handleSearch} />
       <AngelNumberDisplay meaning={meaning} />

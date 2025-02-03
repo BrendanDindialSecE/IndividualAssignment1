@@ -36,14 +36,24 @@ h1 {
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #11dbff; /* Light pink color */
-  text-shadow: 0 0 5px rgba(0, 217, 255, 0.8); /* Subtle white glow */
+  color: #ffffff; /* Light pink color */
+  text-shadow: 0 0 5px rgba(254, 255, 255, 0.8); /* Subtle white glow */
 }
 
 h2 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 700;
+  margin-bottom: 20px;
   color: #60fff2; /* Light gray */
+  
+}
+
+.welcome {
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #60fff2; /* Light gray */
+  text-shadow: 0 0 5px rgba(0, 217, 255, 0.8); /* Subtle white glow */
+    font-family: "Delius Swash Caps", serif;
+
   
 }
 
@@ -89,7 +99,7 @@ button {
 }
 
 button:hover {
-  background-color: #9eecff; /* Darker indigo */
+  background-color: #c9f4ff; /* Darker indigo */
 }
 
 button:focus {
