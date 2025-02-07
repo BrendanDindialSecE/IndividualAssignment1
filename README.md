@@ -1,3 +1,5 @@
+Adv. Front-End Programming Individual Assignment 1 
+Brendan Dindial
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
